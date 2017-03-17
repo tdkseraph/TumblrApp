@@ -32,8 +32,10 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![alt tag](https://media.giphy.com/media/xUA7bez1SbrSUrJpT2/giphy.gif)
 
+![alt tag](https://gifyu.com/images/58cbb0b913f60023899251.gif)
+
+High quality gif: https://gifyu.com/images/tumblrf2308.gif
 ## Notes
 
 Describe any challenges encountered while building the app.
