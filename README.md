@@ -32,10 +32,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://media.giphy.com/media/3o7btZV4Hq4gvIcOQw/giphy.gif' title='Video Walkthrough Tumblr React native' width='' alt='Video Walkthrough Tumblr App React native' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![alt tag](https://media.giphy.com/media/xUA7bez1SbrSUrJpT2/giphy.gif)
 
 ## Notes
 
